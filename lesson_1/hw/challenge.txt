@@ -1,0 +1,8 @@
+HTML challenge:
+
+You should create css selector for web page https://www.amazon.com/s?k=lego which will !!!be stable!!! and return the first element of results list.
+
+Requirements:
+1. Product that is shown as the first element can be different, don't use id's
+2. Banners on the top can be different, with categories, promoted products or something else
+3. If you use pseudo classes - result should be :first-child/:first-of-type or :nth-child(1)/:nth-of-type(1)

@@ -1,0 +1,6 @@
+$$("div[class*='s-result-list'] div[class='a-section a-spacing-none a-spacing-top-small'] h2:nth-child(1)")
+$$("div[data-index='2'][data-cel-widget='search_result_2']")
+$$("div[data-component-type='s-search-result']") ***
+$$("div[class='sg-col-inner']")[6]
+$$("div[class='a-section aok-relative s-image-square-aspect']")[0]
+$$("div[class='s-main-slot s-result-list s-search-results sg-row'] span[data-component-type='s-product-image'] a")[0]
